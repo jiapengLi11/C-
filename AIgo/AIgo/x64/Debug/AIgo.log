@@ -1,0 +1,19 @@
+﻿  Chess.cpp
+c:\users\22842\desktop\aigo\aigo\chess.cpp(69): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+c:\users\22842\desktop\aigo\aigo\chess.cpp(70): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+c:\users\22842\desktop\aigo\aigo\chess.cpp(83): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+c:\users\22842\desktop\aigo\aigo\chess.cpp(85): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+c:\users\22842\desktop\aigo\aigo\chess.cpp(87): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+c:\users\22842\desktop\aigo\aigo\chess.cpp(89): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+c:\users\22842\desktop\aigo\aigo\chess.cpp(91): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\22842\desktop\aigo\aigo\chess.cpp(98): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\22842\desktop\aigo\aigo\chess.cpp(110): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+c:\users\22842\desktop\aigo\aigo\chess.cpp(112): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\22842\desktop\aigo\aigo\chess.cpp(124): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+c:\users\22842\desktop\aigo\aigo\chess.cpp(125): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\22842\desktop\aigo\aigo\chess.cpp(138): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+c:\users\22842\desktop\aigo\aigo\chess.cpp(139): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+c:\users\22842\desktop\aigo\aigo\chess.cpp(140): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\22842\desktop\aigo\aigo\chess.cpp(162): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\22842\desktop\aigo\aigo\chess.cpp(163): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  AIgo.vcxproj -> C:\Users\22842\Desktop\AIgo\x64\Debug\AIgo.exe
